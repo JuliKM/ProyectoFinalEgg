@@ -1,2 +1,3 @@
 # ProyectoFinalEgg
-Software de turismo
+Software de turismo\
+Ver proyecto en https://github.com/ProyectoFinalEgg
